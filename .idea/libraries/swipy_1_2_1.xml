@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="swipy-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.orangegangsters/swipy/1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.orangegangsters/swipy/1.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.orangegangsters/swipy/1.2.1/c66d675d06b31f3b7c25d01966cfb5f9cac663a9/swipy-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
